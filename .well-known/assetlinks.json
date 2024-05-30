@@ -1,0 +1,12 @@
+[
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.globant.sevenparks",
+			"sha256_cert_fingerprints": [
+				"9E:28:21:48:E2:15:8C:CA:47:A7:50:0F:90:C3:6E:B3:56:A3:0B:DE:ED:3A:B3:0B:7E:4C:9F:1C:50:5D:F5:50"
+			]
+		}
+	}
+]

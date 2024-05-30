@@ -1,0 +1,20 @@
+{
+  "applinks":{
+    "apps":[
+       
+    ],
+    "details":[
+      {
+        "appIDs":[
+          "TKH856G5A9.com.globant.sevenparks"
+        ],
+        "components":[
+          {
+            "/":"/app",
+            "comment":"Matches URL with a path /app"
+          }
+        ]
+      }
+    ]
+  }
+}
